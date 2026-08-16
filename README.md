@@ -1,2 +1,3 @@
-# smart-contracts
-Smart contract security research, vulnerabilities, exploit analysis, and defensive techniques.
+# Smart Contract Security
+
+> Notes on smart contract security, vulnerabilities, and exploit research.
