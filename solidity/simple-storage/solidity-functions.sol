@@ -3,7 +3,7 @@ pragma solidity ^0.8.36; // solidity versions
 
 contract SimpleStorage {
 
-   uint public favouriteNumber;  // default value 0 if not initialized // default visibility internal
+   uint256 public favouriteNumber;  // default value 0 if not initialized // default visibility internal
 
    function store(uint256 _favouriteNumber) public{
     favouriteNumber = _favouriteNumber; // set favouriteNumber variable to whatever _favouriteNumber variable parse
