@@ -1,3 +1,4 @@
 # Resources
 
-* [soliditylang](https://docs.soliditylang.org/en/latest/contracts.html) — Official Solidity documentation covering contract structure, visibility, modifiers, storage, inheritance, and related concepts.
+* [Cyfrin Foundry Full Course](https://github.com/Cyfrin/foundry-full-course-cu)
+* [Solidity Documentation](https://docs.soliditylang.org/en/latest/contracts.html)
